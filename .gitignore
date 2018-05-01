@@ -2,3 +2,4 @@
 config.json
 .vscode
 venv
+*node_modules
